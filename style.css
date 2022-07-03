@@ -276,35 +276,35 @@ body, html{
     display: flex;
     flex-direction: column;
     padding: 4rem 6rem;
-}
 
 
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     align-items: center;
 }
 .subsection4>h2{
@@ -428,7 +428,10 @@ B
     background-color: #0F298B;
     padding: 4rem 6rem;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+
+
+
+    grid-template-columns: repeat(4, minmax(200px, 1fr));
     grid-gap:30px;
     color:white;
     text-transform: capitalize;
