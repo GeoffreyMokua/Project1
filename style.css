@@ -258,7 +258,7 @@ body, html{
 .listsubsectionn3{
     display: grid;
     grid-gap: 25px;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr) ) ;
+    grid-template-columns: repeat(4, minmax(200px, 1fr) ) ;
 }
 .ite{
     font-size: larger;
@@ -276,6 +276,35 @@ body, html{
     display: flex;
     flex-direction: column;
     padding: 4rem 6rem;
+}
+
+
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
     align-items: center;
 }
 .subsection4>h2{
