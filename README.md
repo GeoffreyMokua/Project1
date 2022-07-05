@@ -1,12 +1,6 @@
 # Portfolio
 By Geoffrey nyakundi
 ### It is a description of my Project
-## Table of content
--Descrption
--Installation Requirement
--Technology Used
--License
--Authors Info
 ## Description
 This is a website that shows the real estate palace. It contains my original background of how the estate looks, the services offered and the general contact information.
 ## Installation
