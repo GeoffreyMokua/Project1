@@ -1,10 +1,27 @@
-# Author Name
-Geoffrey nyakundi
-## Project Name
-Portfolio Landing page
-### Description of the Project
-The project is tailored to meet the html and css styles in proper application. Through utilizing the languages, I created a portfolio landing page with starts from the logo name and header, middleheader sections  together with button. The project has subsections on the page which contained a detailed information about the Vallie's estate. The project ends with a footer which contain extra information about Vallie's estate.
-#### Setup instructions
-The project code is found on my github repository and thereafter you click the link to the site on the Github page to dispay the website page.
-##### Link to Github page https://geoffreymokua.github.io/Project1/
+# Portfolio
+By Geoffrey nyakundi
+### It is a description of my Project
+## Table of content
+-Descrption
+-Installation Requirement
+-Technology Used
+-License
+-Authors Info
+## Description
+This is a website that shows the real estate palace. It contains my original background of how the estate looks, the services offered and the general contact information.
+## Installation
+### Requirements
+. Either a copmuter, phone, tablet or an ipad
+. Access to the internet
+## Technology used
+.HTML- which was used to build the structure of the pages
+.CSS- which was used to style the pages from the header section, middlesubsection and footer
+## License
+
+
+##### Link to Github page
+https://geoffreymokua.github.io/Project1/
+## Authors Info
+Linkedin- Geoffrey Nyakundi
+Slack Profile- Geoffrey Mokua
 
